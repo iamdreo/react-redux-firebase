@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.header-text {
+
+	margin-left: 6%;
+	margin-top: 10%;
+	margin-bottom: 50px;
+	font-style: bold;
+	font-size: 50px;
+	font-family: 'Josefin Sans',cursive;
+	
+}
+
+.label-title {
+
+	margin-top:20px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-style: bold;
+	font-family: 'Josefin Sans',cursive;
+}

@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.company-description {
+
+  margin-left: 100px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Josefin Sans',cursive;
+    margin-top: 40px;
+}
+
+.first-list {
+
+	 text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Josefin Sans',cursive;
+    margin-top: 20px;
+
+}
+
+.second-list {
+
+ text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Josefin Sans',cursive;
+    margin-top: 20px;
+
+}
+
+.first-list-title {
+
+	 text-align: center;
+    color: orange;
+    font-size: 15px;
+    font-family: 'Josefin Sans',cursive;
+    margin-top: 30px;
+
+
+
+}
+
+.second-list-title {
+
+
+   text-align: center;
+    color: orange;
+    font-size: 15px;
+    font-family: 'Josefin Sans',cursive;
+    margin-top: 30px;
+
+
+}
+
+.second-footer-text {
+  
+
+    
+    color: white;
+    font-size: 15px;
+    font-family: 'Josefin Sans',cursive;
+    margin-top: 20px;
+    margin-left: 45%;
+
+
+
+}
